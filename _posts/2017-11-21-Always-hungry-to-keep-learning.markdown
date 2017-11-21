@@ -2,7 +2,7 @@
 layout: post
 title: Always hungry to keep learning
 date: 2017-11-21 14:59:00 +0800
-description: # Add post description (optional)
+description: 无知是坚持奋斗的推进剂 # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
 tags: # add tag
 ---
