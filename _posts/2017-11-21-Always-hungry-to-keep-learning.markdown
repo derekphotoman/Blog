@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Always hungry to keep learning"
-date: 2017-11-21 13:59:00 +0800
+date: 2017-11-21 13:59:00 
 description: # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
 tags: [机器学习] [神经网络] [云计算] [大数据] # add tag
